@@ -9,5 +9,5 @@
 
 **🌐Additional Portfolios**
 
-[![X](https://img.shields.io/badge/Kaggle-38BFFF?-style=for-the-badge&logo=kaggle&logoColor=white)](https://x.com/harval21)
-[![X](https://img.shields.io/badge/Tableau-FF4238?-style=for-the-badge&logo=tableau&logoColor=white)](https://x.com/harval21)
+[![X](https://img.shields.io/badge/Kaggle-38BFFF?-style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harval21)
+[![X](https://img.shields.io/badge/Tableau-FF4238?-style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harval21/vizzes)
