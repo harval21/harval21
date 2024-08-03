@@ -5,7 +5,6 @@
 
 [![X](https://img.shields.io/badge/_-Gmail-6a0000?-style=for-the-badge&logo=gmail&logoColor=white)](mailto:harval.hrv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?-style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harval21/)
-[![X](https://img.shields.io/badge/X-000000?-style=for-the-badge&logo=x&logoColor=white)](https://x.com/harval21)
 
 **🌐Additional Portfolios**
 
